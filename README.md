@@ -79,19 +79,15 @@ Add your .txt files to the directory.
 
 Execute all cells to get plagiarism similarity scores.
 
-📌 Notes
+## 📌 Notes
 Ensure all text files are encoded in UTF-8.
 
 The results depend on the lexical similarity of the content.
 
 This is a basic similarity checker, not a full plagiarism detector (i.e., it doesn't catch paraphrased content).
 
-🧑‍💻 Author
+##🧑‍💻 Author
 Ajinkya Kutarmare
 
-
-javascript
-Copy
-Edit
 
 Let me know if you want this saved as a downloadable `README.md` file.
